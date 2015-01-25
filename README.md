@@ -2,8 +2,6 @@
 # README
 ==================================================================
 
-==================================================================
-
 This repository contains the work for the course project of “Getting and Cleaning data". 
 This README.md file explains how all of the work function and are connected.
 
