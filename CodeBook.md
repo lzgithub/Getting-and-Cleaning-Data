@@ -6,6 +6,7 @@
 This Code Book describes the variables in the tidy dataset. Among the 561 variables in the original “features.txt”, 
 only variable names containing “mean” or “std” are used. Some special symbols in the feature names, such as ( ) and – 
 were either removed or replaced with _ , in order to better suited for R.
+
 ==================================================================
 
 Description of the variables:
