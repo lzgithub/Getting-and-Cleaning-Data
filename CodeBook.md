@@ -1,3 +1,6 @@
+#
+# Code Book
+==================================================================
 ==================================================================
 This Code Book describes the variables in the tidy dataset. Among the 561 variables in the original “features.txt”, 
 only variable names containing “mean” or “std” are used. Some special symbols in the feature names, such as ( ) and – 
